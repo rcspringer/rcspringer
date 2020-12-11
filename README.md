@@ -1,5 +1,9 @@
 ### Hi there 👋
+My name is Roy Springer I'm a teacher @ROCMondriaanTIN.
 
+👯 I’m looking to collaborate on fun small projects with students. 
+
+📫 How to reach me: r.springer@rocmondriaan.nl
 <!--
 **rcspringer/rcspringer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
