@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Roy Springer I'm a teacher @ROCMondriaanTIN.
+My name is Roy Springer I'm a teacher [@ROCMondriaanTIN](https://github.com/ROCMondriaanTIN).
 
 👯 I’m looking to collaborate on fun small projects with students. 
 
