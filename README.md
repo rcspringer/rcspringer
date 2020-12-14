@@ -3,6 +3,10 @@ My name is Roy Springer I'm a teacher [@ROCMondriaanTIN](https://github.com/ROCM
 
 👯 I’m looking to collaborate on fun small projects with students. 
 
+🔭 Looking for some inspirational quotes? https://rcspringer.github.io
+
+🤔 Do you want some extra features in the inspirational quote site? Feel free to add isseus https://github.com/rcspringer/rcspringer.github.io
+
 📫 How to reach me: r.springer@rocmondriaan.nl
 <!--
 **rcspringer/rcspringer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
