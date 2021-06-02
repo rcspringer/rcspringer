@@ -7,6 +7,8 @@ My name is Roy Springer I'm a teacher [@ROCMondriaanTIN](https://github.com/ROCM
 
 🤔 Do you want some extra features in the inspirational quote site? Feel free to add isseus https://github.com/rcspringer/rcspringer.github.io
 
+🕹️ Want to play a Small TikTakToe game while you wait when compiling? https://rcspringer.github.io/TikTakToe/
+
 📫 How to reach me: r.springer@rocmondriaan.nl
 <!--
 **rcspringer/rcspringer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
